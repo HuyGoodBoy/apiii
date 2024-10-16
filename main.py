@@ -9,7 +9,8 @@ def read_csv(file_name):
     return pd.read_csv(file_name)
 
 
-csv_data = read_csv('C:\\Users\\ASUS\\Desktop\\DATAA\\DAP\\lab4_labdataset_chapter3.csv')
+csv_data = read_csv('lab4_labdataset_chapter3.csv')
+
 
 
 # Tìm kiếm dữ liệu trong CSV dựa trên truy vấn của người dùng
